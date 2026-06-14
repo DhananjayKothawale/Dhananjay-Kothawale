@@ -162,9 +162,9 @@ Managed participation of 150+ students
 
 📧 Email: [dhananjaykothawale80@gmail.com](mailto:dhananjaykothawale80@gmail.com)
 
-💼 LinkedIn: Add Your LinkedIn URL
+💼 LinkedIn: https://www.linkedin.com/in/dhananjay-kothawale/
 
-🌐 Portfolio: Add Your Portfolio URL
+🌐 Portfolio: https://my-portfolio-gemk.onrender.com/
 
 📂 GitHub: https://github.com/DhananjayKothawale
 
